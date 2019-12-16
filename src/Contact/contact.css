@@ -1,0 +1,101 @@
+.icons-container{
+    text-align: center;
+}
+
+.icons-col{
+    display: flex;
+    text-align: center;
+    width: 160px;
+    margin: 0 auto;
+}
+
+#linkedin{
+    background-image: url("../images/linkedin.png");
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    cursor: pointer;
+    margin: 0 15px;
+}
+
+#github{
+    background-image: url("../images/github.png");
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    cursor: pointer;
+    margin: 0 15px;
+}
+
+.email-row{
+    display: flex;
+    margin: 10px 0;
+}
+
+#email-icon{
+    background-image: url("../images/email.png");
+    background-size: cover;
+    width: 40px;
+    height: 29px;
+    margin-right: 10px;
+}
+
+#email-address{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 4px;
+    font-size: 18px;
+}
+
+#email-address:hover{
+    color: rgb(53, 121, 167);
+}
+
+.email-col{
+    display: flex;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.resume-row{
+    margin: 20px auto 10px auto;
+    font-size: 18px;
+    width: 300px;
+    text-align: center;
+}
+
+#resume-link{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#resume-link:hover{
+    color: rgb(53, 121, 167);
+}
+
+.photo-col{
+    text-align: center;
+    width: 250px;
+}
+
+#photo{
+    width: 200px;
+    margin: 0 auto;
+}
+
+#contact{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    padding-bottom: 20px;
+    width: 50%;
+    justify-content: center;
+}
+
+.info-container{
+    margin: 0 auto;
+}

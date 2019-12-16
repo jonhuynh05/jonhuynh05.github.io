@@ -1,0 +1,86 @@
+.project-container{
+    margin: 40px 0 0 0;
+    text-align: center;
+}
+
+.project-title{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.project-image{
+    text-align: center;
+}
+
+.project-image > img{
+    margin: 20px;
+    width: 50%;
+    min-width: 400px;
+}
+
+.project-description{
+    margin: 15px;
+}
+
+.project-description > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.project-description > a:hover{
+    color: rgb(53, 121, 167);
+}
+
+.technology-row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 20px 0 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.technology-col{
+    margin: 10px;
+    padding: 10px;
+}
+
+.project-description{
+    text-align: center;
+}
+
+.technology-description{
+    display: block;
+    padding: 20px 20px 0 20px;
+}
+.technology-header{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.technology-name{
+    text-align: center;
+    margin: 5px;
+}
+
+.technology-icon{
+    height: 40px;
+}
+
+.technology-icon > img{
+    height: 100%;
+}
+
+.bar-divider {
+    background-color: rgb(53, 121, 167);
+    height: 5px;
+    width: 30%;
+    margin: 0 auto
+}
+
+#bar-divider-end{
+    width: 30%
+}

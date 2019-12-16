@@ -1,0 +1,40 @@
+nav {
+  background-color: rgb(53, 121, 167);
+  height: 50px;
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+
+}
+
+.nav-div{
+  color: white;
+  width: 25%;
+  text-align: center;
+  line-height: 50px;
+}
+
+.nav-a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bolder
+}
+
+.nav-a:hover {
+  font-size: 20px;
+}
+
+#name{
+  font-size: 20px;
+  font-weight: bolder;
+  width: 100%;
+  text-align: left;
+  padding-left: 30px;
+}
+
+#skills{
+  margin-left: auto;
+}
