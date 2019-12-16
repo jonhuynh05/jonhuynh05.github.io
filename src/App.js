@@ -7,9 +7,13 @@ import Contact from "./Contact"
 import Skills from "./Skills"
 
 class App extends Component{
+
+  componentDidMount(){
+    document.title = "Jon's Portfolio"
+  }
+
   handleScroll(e){
     e.preventDefault()
-
   }
 
   render(){
