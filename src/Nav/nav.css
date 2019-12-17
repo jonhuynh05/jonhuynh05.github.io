@@ -1,4 +1,9 @@
 nav {
+  display: flex;
+  height: 100%;
+}
+
+.nav-main{
   background-color: rgb(53, 121, 167);
   height: 50px;
   display: flex;
@@ -6,35 +11,95 @@ nav {
   top: 0;
   width: 100%;
   font-family: "Poppins", sans-serif;
+  flex-wrap: wrap;
 
+}
+
+.nav-row{
+  background-color: rgb(35, 83, 117);
+  height: 50px;
+  width: 100%;
+  justify-content: right;
+  padding-right: 30px;
+  display: flex;
+  margin: auto;
 }
 
 .nav-div{
   color: white;
-  width: 25%;
-  text-align: center;
-  line-height: 50px;
+  /* width: 25%; */
+  text-align: right;
+  /* line-height: 50px; */
+  margin: auto 0 auto auto;
+  display: flex;
+  height: 50px;
 }
 
 .nav-a {
   color: white;
   text-decoration: none;
   font-size: 16px;
-  font-weight: bolder
+  font-weight: bolder;
+  margin: auto 0 auto auto
 }
 
 .nav-a:hover {
   font-size: 20px;
 }
 
+#nav-a-name{
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bolder;
+  margin: auto auto auto 0
+}
+
 #name{
   font-size: 20px;
   font-weight: bolder;
-  width: 100%;
+  width: 93%;
   text-align: left;
   padding-left: 30px;
+  margin: 0;
 }
 
 #skills{
   margin-left: auto;
+}
+
+/* #no-hamburger-container{
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+} */
+
+#hamburger-container{
+  /* visibility: hidden; */
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  border: 2px solid black;
+}
+
+/* @media screen and (max-width: 800px) {
+  #hamburger-container{
+    visibility: hidden
+  }
+} */
+
+.hamburger-bars{
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  margin: 5px 0;
+}
+
+#hamburger-stack{
+  padding: 10px;
+  cursor: pointer;
+}
+
+#hamburger-stack:hover{
+  background-color: rgb(35, 83, 117);
 }
