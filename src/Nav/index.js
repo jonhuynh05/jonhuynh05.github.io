@@ -41,34 +41,30 @@ class Nav extends Component{
                             <div className="hamburger-bars"></div>
                         </div>
                     }
-
-                    {/* <div id="hamburger-container"> */}
                    {
                        this.state.open
                        ?
                        <>
                        <div className="nav-row">
                             <div className="nav-div" id="nav-skills">
-                                <Link smooth={true} offset={-70} className="nav-a" to="skills">Skills</Link>
+                                <Link smooth={true} offset={-70} className="nav-a" to="skills" onClick={this.handleClose}>Skills</Link>
                             </div>
                         </div>
                         <div className="nav-row">
                             <div className="nav-div" id="nav-portolio">
-                                <Link smooth={true} offset={-70} className="nav-a" to="portfolio">Portfolio</Link>
+                                <Link smooth={true} offset={-70} className="nav-a" to="portfolio" onClick={this.handleClose}>Portfolio</Link>
                             </div>
                         </div>
                         <div className="nav-row">
                             <div className="nav-div" id="nav-contact">
-                                <Link smooth={true} offset={-70} className="nav-a" to="contact">Contact</Link>
+                                <Link smooth={true} offset={-70} className="nav-a" to="contact" onClick={this.handleClose}>Contact</Link>
                             </div>
                         </div>
                         </>
                         :
                         null
                    }
-
                 </div>
-                {/* </div> */}
             </nav>
         )
     }
