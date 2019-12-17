@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:500&display=swap');
 
-html{
+html, body{
   font-family: "Poppins", sans-serif;
-}
-
-body{
-  overflow: auto;
+  max-width: 100%;
+  overflow-x: hidden;
+  white-space: nowrap;
 }
 
 .section-header{
