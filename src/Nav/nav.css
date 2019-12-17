@@ -67,7 +67,6 @@ nav {
 }
 
 #hamburger-container{
-  /* visibility: hidden; */
   display: flex;
   width: 100%;
   justify-content: flex-end;
@@ -88,4 +87,8 @@ nav {
 
 #hamburger-stack:hover{
   background-color: rgb(35, 83, 117);
+}
+
+#nav-a-name:hover{
+  font-size: 20px;
 }
