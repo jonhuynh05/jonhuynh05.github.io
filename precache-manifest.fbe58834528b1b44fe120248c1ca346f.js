@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4cf3e192071c4ec9db2129bd61861f1",
+    "revision": "3de504bc3399e43d11f7509683cd8301",
     "url": "/resume-portfolio/index.html"
   },
   {
-    "revision": "e4e230db1e809552b458",
-    "url": "/resume-portfolio/static/css/main.d12fa762.chunk.css"
+    "revision": "4f1e87238d1d7c9e511c",
+    "url": "/resume-portfolio/static/css/main.8031f3ad.chunk.css"
   },
   {
-    "revision": "4ce2f598c01b29bef135",
-    "url": "/resume-portfolio/static/js/2.a6a6e9c8.chunk.js"
+    "revision": "ff1e5305c0f4e90772d9",
+    "url": "/resume-portfolio/static/js/2.dc5a6bfa.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/resume-portfolio/static/js/2.a6a6e9c8.chunk.js.LICENSE"
+    "url": "/resume-portfolio/static/js/2.dc5a6bfa.chunk.js.LICENSE"
   },
   {
-    "revision": "e4e230db1e809552b458",
-    "url": "/resume-portfolio/static/js/main.8bd0ccf6.chunk.js"
+    "revision": "4f1e87238d1d7c9e511c",
+    "url": "/resume-portfolio/static/js/main.b532520b.chunk.js"
   },
   {
     "revision": "aa6eac8c3b4bd14d7c5c",
