@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/resume-portfolio/static/css/main.d12fa762.chunk.css",
+    "main.js": "/resume-portfolio/static/js/main.8bd0ccf6.chunk.js",
+    "main.js.map": "/resume-portfolio/static/js/main.8bd0ccf6.chunk.js.map",
+    "runtime-main.js": "/resume-portfolio/static/js/runtime-main.8197386e.js",
+    "runtime-main.js.map": "/resume-portfolio/static/js/runtime-main.8197386e.js.map",
+    "static/js/2.a6a6e9c8.chunk.js": "/resume-portfolio/static/js/2.a6a6e9c8.chunk.js",
+    "static/js/2.a6a6e9c8.chunk.js.map": "/resume-portfolio/static/js/2.a6a6e9c8.chunk.js.map",
+    "index.html": "/resume-portfolio/index.html",
+    "precache-manifest.dc0dd6ed0a68515285990672404de953.js": "/resume-portfolio/precache-manifest.dc0dd6ed0a68515285990672404de953.js",
+    "service-worker.js": "/resume-portfolio/service-worker.js",
+    "static/css/main.d12fa762.chunk.css.map": "/resume-portfolio/static/css/main.d12fa762.chunk.css.map",
+    "static/js/2.a6a6e9c8.chunk.js.LICENSE": "/resume-portfolio/static/js/2.a6a6e9c8.chunk.js.LICENSE",
+    "static/media/Jonathan Huynh Resume.pdf": "/resume-portfolio/static/media/Jonathan Huynh Resume.18f19f66.pdf",
+    "static/media/bluespotlight.png": "/resume-portfolio/static/media/bluespotlight.938f8709.png",
+    "static/media/bootstrap.png": "/resume-portfolio/static/media/bootstrap.b0eadec8.png",
+    "static/media/contact-photo.jpg": "/resume-portfolio/static/media/contact-photo.9210fe7f.jpg",
+    "static/media/css.svg": "/resume-portfolio/static/media/css.7415a70a.svg",
+    "static/media/about.css": "/resume-portfolio/static/media/desk.afda855b.jpg",
+    "static/media/edamam.svg": "/resume-portfolio/static/media/edamam.a6a208fb.svg",
+    "static/media/ejs.png": "/resume-portfolio/static/media/ejs.2fe0a470.png",
+    "static/media/contact.css": "/resume-portfolio/static/media/email.db63510a.png",
+    "static/media/flask.png": "/resume-portfolio/static/media/flask.6957c02d.png",
+    "static/media/hattrick.png": "/resume-portfolio/static/media/hattrick.9e8b8650.png",
+    "static/media/html.png": "/resume-portfolio/static/media/html.f2282f94.png",
+    "static/media/javascript.png": "/resume-portfolio/static/media/javascript.e8c27f6b.png",
+    "static/media/lolinspector.png": "/resume-portfolio/static/media/lolinspector.032cf2b2.png",
+    "static/media/mongodb.svg": "/resume-portfolio/static/media/mongodb.2985235d.svg",
+    "static/media/nodejs.png": "/resume-portfolio/static/media/nodejs.0d8ed365.png",
+    "static/media/pokemon-blackjack.png": "/resume-portfolio/static/media/pokemon-blackjack.78b7a8ca.png",
+    "static/media/python.png": "/resume-portfolio/static/media/python.067050f6.png",
+    "static/media/react.png": "/resume-portfolio/static/media/react.8f65a033.png",
+    "static/media/riotgameslogo.png": "/resume-portfolio/static/media/riotgameslogo.13d2903a.png",
+    "static/media/sqlite.png": "/resume-portfolio/static/media/sqlite.de2bf92b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8197386e.js",
+    "static/js/2.a6a6e9c8.chunk.js",
+    "static/css/main.d12fa762.chunk.css",
+    "static/js/main.8bd0ccf6.chunk.js"
+  ]
+}
