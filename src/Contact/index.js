@@ -11,7 +11,7 @@ function Contact () {
                     Contact Me
                 </div>
                 <div className="resume-row">
-                    Check out my resume <a id="resume-link" href={require("../Resume/Jonathan Huynh Resume.pdf")} download>here</a>.
+                    Check out my resume <a id="resume-link" href={require("../Resume/Jonathan Huynh Coding Resume.pdf")} download>here</a>.
                 </div>
                 <div className="email-row">
                     <div className="email-col">
