@@ -9,7 +9,7 @@ const LoLInspector = () => {
                 LoL Inspector
             </div>
             <div className="project-description">
-                LoL Inspector is a learning tool for every League of Legends player. It highlights where a player succeeded and can improve for a given match. Take a look at the repository <a href="https://github.com/jonhuynh05/lol-inspector" target="_blank" rel="noopener noreferrer">here</a>.
+                LoL Inspector is a learning tool for every League of Legends player. It highlights where a player succeeded and can improve for a given match. Take a look at the site <a href="https://lolinspector.herokuapp.com/" target="_blank" rel="noopener noreferrer">here</a>.
             </div>
             <div className="project-image">
                 <img src={require("../images/lolinspector.png")} alt="lolinspector"/>
